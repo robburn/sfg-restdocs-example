@@ -1,5 +1,7 @@
 # SFG Spring REST Docs Example
 
+[![CircleCI](https://circleci.com/gh/robburn/sfg-restdocs-example.svg?style=svg)](https://circleci.com/gh/robburn/sfg-restdocs-example)
+
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
 
 You can learn more about the courses here:
